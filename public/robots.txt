@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /404
+Allow: /
+
+Sitemap: https://evaferrand.fr/sitemap.xml
